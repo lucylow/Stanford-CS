@@ -1,2 +1,2 @@
 # Stanford-CS
-Course notes for Stanford's cs231,  cs229, and cs224
+Course notes for Stanford's Machine Learning courses CS231,  CS229, and CS224
